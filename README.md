@@ -1,2 +1,2 @@
 # Movies-ETL
-Data Analytics Bootcamp Module 8
+Data Analytics Boot Camp - Module 8
